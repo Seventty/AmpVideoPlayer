@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\AmpVideoPlayer\bin\Debug\AmpVideoPlayer.exe.config
+C:\Users\pc\source\repos\AmpVideoPlayer\bin\Debug\AmpVideoPlayer.exe
+C:\Users\pc\source\repos\AmpVideoPlayer\bin\Debug\AmpVideoPlayer.pdb
+C:\Users\pc\source\repos\AmpVideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\pc\source\repos\AmpVideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AmpVideoPlayer.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AmpVideoPlayer.csproj.ResolveComReference.cache
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AmpVideoPlayer.Form1.resources
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AmpVideoPlayer.Properties.Resources.resources
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AmpVideoPlayer.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AmpVideoPlayer.exe
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AmpVideoPlayer.pdb
+C:\Users\pc\source\repos\AmpVideoPlayer\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\pc\source\repos\AmpVideoPlayer\obj\Debug\AmpVideoPlayer.csproj.CopyComplete
